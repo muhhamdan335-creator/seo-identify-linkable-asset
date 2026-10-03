@@ -53,6 +53,17 @@ Rekomendasi Optimasi
 
 ---
 
+## Dokumentasi Proyek
+
+| Tahap | Deskripsi | Screenshot |
+|---|---|---|
+| **Task / Brief Proyek** | Task berfokus pada identifikasi halaman yang memiliki potensi sebagai *linkable asset*, termasuk evaluasi konten, performa organik, backlink, dan peluang pengembangan konten. | <img src="assets/screenshots/identify%20linkabe%20asset.PNG" alt="Task identifikasi linkable asset" width="500"> |
+| **Analisis Pendukung 1** | Analisis awal dilakukan untuk meninjau halaman yang tersedia, jenis aset konten, serta data SEO yang relevan untuk menentukan prioritas halaman. | <img src="assets/screenshots/identify%20linkabe%20asset%202.PNG" alt="Analisis pendukung identifikasi linkable asset" width="500"> |
+| **Analisis Pendukung 2** | Riset kompetitor digunakan untuk membandingkan kualitas konten, struktur informasi, serta peluang yang dapat diterapkan pada aset konten yang dianalisis. | <img src="assets/screenshots/identify%20linkabe%20asset%203.PNG" alt="Analisis kompetitor dan data pendukung" width="500"> |
+| **Hasil Linkable Asset** | Hasil akhir berupa identifikasi halaman potensial sebagai *linkable asset* beserta rekomendasi optimasi untuk meningkatkan nilai konten dan peluang mendapatkan backlink. | <img src="assets/screenshots/identify%20linkabe%20asset%204.PNG" alt="Hasil identifikasi linkable asset" width="500"> |
+
+---
+
 ## Pendekatan Analisis
 
 Riset dilakukan melalui kombinasi evaluasi kualitas konten dan data SEO untuk menentukan apakah sebuah halaman berpotensi menjadi aset yang layak memperoleh backlink secara alami.
