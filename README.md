@@ -1,60 +1,135 @@
-Linkable Asset Identification & SEO Opportunity Research
-Project Overview
+# Identifikasi Linkable Asset & Riset Peluang SEO
 
-Proyek ini merupakan simulasi dokumentasi pekerjaan SEO untuk mengidentifikasi linkable assets pada sebuah website dan menemukan peluang pengembangan konten yang berpotensi digunakan untuk kegiatan outreach dan link building.
+## Gambaran Proyek
 
-Analisis dilakukan dengan mengevaluasi halaman yang sudah tersedia, performa organik, referring domains, serta membandingkannya dengan halaman kompetitor yang memiliki performa atau backlink lebih baik.
+Proyek ini merupakan simulasi pekerjaan SEO yang berfokus pada identifikasi **linkable asset** pada sebuah website serta pencarian peluang pengembangan konten untuk mendukung strategi outreach dan link building.
 
-Objective
-Mengidentifikasi halaman yang berpotensi menjadi linkable asset
-Menganalisis performa organik dan backlink halaman terkait
-Membandingkan aset konten dengan kompetitor
-Menemukan peluang peningkatan konten untuk mendukung link acquisition
-Memberikan rekomendasi optimasi yang dapat ditindaklanjuti
-Analysis Process
-Website & Content Review
+Analisis dilakukan dengan mengevaluasi halaman yang telah tersedia, performa organik, jumlah *referring domains*, serta aset konten milik kompetitor. Hasil penelitian kemudian digunakan untuk menentukan halaman yang memiliki potensi memperoleh backlink dan menyusun rekomendasi optimasi yang dapat ditindaklanjuti.
+
+> **Catatan:** Nama klien, URL, serta informasi rahasia telah dianonimkan atau dihapus untuk keperluan portofolio.
+
+---
+
+## Tujuan Proyek
+
+- Mengidentifikasi halaman yang berpotensi menjadi *linkable asset*
+- Menganalisis performa organik dan backlink pada halaman terkait
+- Membandingkan aset konten dengan halaman kompetitor
+- Menemukan *content gap* dan peluang pengembangan konten
+- Menyusun rekomendasi SEO yang mendukung perolehan backlink
+- Meningkatkan nilai konten sebagai sumber referensi bagi website lain
+
+---
+
+## Alur Riset
+
+```text
+Audit Website & Konten
         ↓
-Identify Potential Linkable Assets
+Identifikasi Potensi Linkable Asset
         ↓
-Organic & Backlink Analysis
+Analisis Performa Organik & Backlink
         ↓
-Competitor Research
+Riset Kompetitor
         ↓
-Content Gap Identification
+Identifikasi Content Gap
         ↓
-Optimization Recommendations
-Key Data Analyzed
-Data	Purpose
-URL	Mengidentifikasi halaman yang dianalisis
-Asset Type	Mengklasifikasikan jenis linkable asset
-Organic Traffic	Menilai performa organik halaman
-Referring Domains	Mengevaluasi kekuatan backlink
-Competitor URL	Membandingkan aset dengan kompetitor
-Recommendations	Menentukan peluang peningkatan
-Example Findings
+Rekomendasi Optimasi
+```
 
-Analisis menemukan peluang pengembangan pada halaman berbentuk ultimate guide. Beberapa rekomendasi yang diberikan meliputi:
+---
 
-Menambahkan visual dan contoh yang lebih relevan
-Memperkuat referensi dan sumber pendukung
-Mengurangi bahasa yang terlalu promotional
-Memperluas informasi yang bersifat edukatif
-Meningkatkan kedalaman dan usefulness konten agar lebih layak dijadikan referensi oleh website lain
-Tools
+## Data yang Dianalisis
 
-Ahrefs · Google Sheets · Google Search · Website Analysis
+| Data | Tujuan Analisis |
+|---|---|
+| URL | Mengidentifikasi halaman yang dianalisis |
+| Jenis Aset | Mengklasifikasikan format konten, seperti panduan, artikel, tools, statistik, atau halaman sumber daya |
+| Organic Traffic | Menilai performa halaman pada hasil pencarian organik |
+| Referring Domains | Mengevaluasi kekuatan backlink dan minat website eksternal terhadap halaman |
+| Competitor URL | Membandingkan aset konten dengan halaman milik kompetitor |
+| Performa Konten | Menilai kedalaman, struktur, relevansi, dan nilai praktis konten |
+| Rekomendasi | Menentukan peluang peningkatan konten dan strategi *link acquisition* |
 
-Deliverable
+---
 
-Hasil analisis didokumentasikan dalam spreadsheet yang berisi:
+## Pendekatan Analisis
 
-Identifikasi linkable assets
-Data performa organik
-Referring domains
-Competitor comparison
-Content improvement recommendations
-Skills Demonstrated
+Riset dilakukan melalui kombinasi evaluasi kualitas konten dan data SEO untuk menentukan apakah sebuah halaman berpotensi menjadi aset yang layak memperoleh backlink secara alami.
 
-SEO Research · Link Building Research · Content Analysis · Competitor Analysis · Data Analysis · Spreadsheet Management · SEO Recommendations
+Beberapa faktor yang dianalisis meliputi:
 
-Note: Client names, URLs, and confidential information have been anonymized or removed for portfolio purposes.
+- Jenis dan format konten
+- Performa traffic organik
+- Jumlah *referring domains*
+- Relevansi topik terhadap kebutuhan audiens
+- Kesesuaian konten dengan *search intent*
+- Kedalaman, orisinalitas, dan nilai edukatif konten
+- Struktur dan kualitas konten kompetitor
+- Peluang untuk meningkatkan nilai referensi halaman
+
+---
+
+## Contoh Temuan
+
+Salah satu peluang yang ditemukan adalah halaman berbentuk **ultimate guide** yang memiliki topik relevan dan potensi untuk dikembangkan menjadi *linkable asset* yang lebih kuat.
+
+Meskipun halaman tersebut telah membahas topik utama, konten masih dapat ditingkatkan agar lebih bernilai bagi pembaca, publisher, blogger, maupun website lain yang berpotensi menjadikannya sebagai referensi.
+
+Rekomendasi yang diberikan meliputi:
+
+- Menambahkan visual, ilustrasi, atau contoh yang lebih relevan
+- Memperkuat klaim dengan data, referensi, dan sumber tepercaya
+- Mengurangi penggunaan bahasa yang terlalu promosi
+- Memperluas pembahasan edukatif untuk menjawab pertanyaan audiens secara lebih lengkap
+- Menambahkan checklist, framework, template, atau insight original
+- Meningkatkan struktur konten agar lebih mudah dipindai dan dirujuk
+- Memperdalam informasi agar halaman lebih layak dijadikan sumber referensi oleh website lain
+
+---
+
+## Deliverables
+
+Hasil riset didokumentasikan dalam spreadsheet yang mencakup:
+
+- Daftar halaman potensial sebagai *linkable asset*
+- Klasifikasi jenis aset konten
+- Data performa organik
+- Analisis *referring domains*
+- Perbandingan dengan konten kompetitor
+- Identifikasi *content gap*
+- Rekomendasi peningkatan konten
+- Potensi angle untuk outreach dan link building
+
+---
+
+## Tools yang Digunakan
+
+- Ahrefs
+- Google Sheets
+- Google Search
+- Website Content Analysis
+
+---
+
+## Keahlian yang Ditunjukkan
+
+- SEO Research
+- Link Building Research
+- Identifikasi Linkable Asset
+- Content Analysis
+- Competitor Analysis
+- Organic Traffic Analysis
+- Backlink dan Referring Domain Analysis
+- Content Gap Analysis
+- Data Analysis
+- Spreadsheet Management
+- SEO Strategy & Recommendations
+
+---
+
+## Catatan Portofolio
+
+Proyek ini dibuat sebagai dokumentasi kemampuan dalam melakukan riset SEO, analisis kompetitor, identifikasi peluang link building, serta penyusunan rekomendasi pengembangan konten.
+
+Seluruh data sensitif, termasuk nama klien, domain, URL, dan informasi bisnis, telah dianonimkan untuk menjaga kerahasiaan.
