@@ -138,9 +138,3 @@ Hasil riset didokumentasikan dalam spreadsheet yang mencakup:
 - SEO Strategy & Recommendations
 
 ---
-
-## Catatan Portofolio
-
-Proyek ini dibuat sebagai dokumentasi kemampuan dalam melakukan riset SEO, analisis kompetitor, identifikasi peluang link building, serta penyusunan rekomendasi pengembangan konten.
-
-Seluruh data sensitif, termasuk nama klien, domain, URL, dan informasi bisnis, telah dianonimkan untuk menjaga kerahasiaan.
